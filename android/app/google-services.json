@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1011670601570",
+    "project_id": "shopwave-e292f",
+    "storage_bucket": "shopwave-e292f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011670601570:android:cfe0f5c1df89ab30d8a63b",
+        "android_client_info": {
+          "package_name": "com.example.shopwave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011670601570-opjvnht3vfem3hfjo3vujia5haqiht92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopwave",
+            "certificate_hash": "5887f146d50aea2ff2f76d8db507709b95319c0c"
+          }
+        },
+        {
+          "client_id": "1011670601570-t14vl8n97d45nulv21tki7eis3oieb8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIwGEIiWnb03y5ayVsIuISPVgf58B5VLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011670601570-t14vl8n97d45nulv21tki7eis3oieb8c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1011670601570-n4ihqrobbk9608qhl7evuu1nr6dcnc9o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopwave"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

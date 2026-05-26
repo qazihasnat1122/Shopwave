@@ -1,0 +1,27 @@
+{
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "shopwave-e292f",
+          "appId": "1:1011670601570:android:cfe0f5c1df89ab30d8a63b",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "shopwave-e292f",
+          "configurations": {
+            "android": "1:1011670601570:android:cfe0f5c1df89ab30d8a63b",
+            "ios": "1:1011670601570:ios:3052784765efa470d8a63b",
+            "windows": "1:1011670601570:web:86e3e14bed3c588dd8a63b"
+          }
+        }
+      }
+    }
+  }
+}
